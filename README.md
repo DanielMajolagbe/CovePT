@@ -1,1 +1,1 @@
-Redesign of Cove - Under Development
+This is the Redesign for Cove - Under Development
